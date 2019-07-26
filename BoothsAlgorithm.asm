@@ -1,6 +1,5 @@
 # Randy Hartzell
 # November 2018, Computer Architecture and Assembler
-# Dr. Hale
 
 .data
 	message: .asciiz "Input a number: "
